@@ -8,3 +8,5 @@ Please head to here for help in setting up the server.cfg https://docs.fivem.net
 Any further assistance please go to my discord as mentioned below.
 
 https://discord.gg/eBs45RA
+
+Forked From @rdephillip 
