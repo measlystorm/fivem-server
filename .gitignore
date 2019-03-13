@@ -1,0 +1,8 @@
+# Ignore crashes folder
+crashes/
+
+# Ignore server.cfg (avoid showing ip and license key)
+cfx-server-data-master/server.cfg
+
+# Ignore cache folder (Cache folder could be deleted)
+cfx-server-data-master/cache
